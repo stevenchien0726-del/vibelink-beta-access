@@ -22,7 +22,7 @@ export default function JoinCTA() {
             onClick={() => openExternalLink(LINKS.vibelinkBeta)}
             className="rounded-full bg-white px-16 py-6 text-3xl font-black text-[#7c3aed] shadow-lg transition hover:scale-[1.03]"
           >
-            立即加入 Beta
+            立即加入
           </button>
 
           
