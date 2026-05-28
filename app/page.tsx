@@ -1,7 +1,7 @@
 import BetaHero from '@/components/BetaHero'
 import TrustSection from '@/components/TrustSection'
 import HowItWorks from '@/components/HowItWorks'
-import SafetySection from '@/components/SafetySection'
+
 import ReturnGuide from '@/components/ReturnGuide'
 import JoinCTA from '@/components/JoinCTA'
 import PreviewPhotoWall from '@/components/PreviewPhotoWall'
@@ -17,7 +17,7 @@ export default function HomePage() {
         <JoinCTA />
         <TrustSection />
         <HowItWorks />
-        <SafetySection />
+        
         <ReturnGuide />
         <JoinCTA />
       </div>
