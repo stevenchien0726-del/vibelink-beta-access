@@ -6,6 +6,8 @@ import ReturnGuide from '@/components/ReturnGuide'
 import JoinCTA from '@/components/JoinCTA'
 import PreviewPhotoWall from '@/components/PreviewPhotoWall'
 
+import OfficialIGCard from '@/components/OfficialIGCard'
+
 export default function HomePage() {
   return (
     <main className="min-h-screen bg-[#f8f5ff] text-[#17121f]">
@@ -19,6 +21,7 @@ export default function HomePage() {
         <HowItWorks />
         
         <ReturnGuide />
+        <OfficialIGCard />
         <JoinCTA />
       </div>
     </main>
