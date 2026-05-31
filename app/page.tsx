@@ -2,7 +2,6 @@ import BetaHero from '@/components/BetaHero'
 import TrustSection from '@/components/TrustSection'
 import HowItWorks from '@/components/HowItWorks'
 
-import ReturnGuide from '@/components/ReturnGuide'
 import JoinCTA from '@/components/JoinCTA'
 import PreviewPhotoWall from '@/components/PreviewPhotoWall'
 
@@ -21,7 +20,6 @@ export default function HomePage() {
         <TrustSection />
         <HowItWorks />
         
-        <ReturnGuide />
         <OfficialLineCard />
         <OfficialIGCard />
         <JoinCTA />
