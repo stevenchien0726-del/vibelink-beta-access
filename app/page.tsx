@@ -6,6 +6,7 @@ import ReturnGuide from '@/components/ReturnGuide'
 import JoinCTA from '@/components/JoinCTA'
 import PreviewPhotoWall from '@/components/PreviewPhotoWall'
 
+import OfficialLineCard from '@/components/OfficialLineCard'
 import OfficialIGCard from '@/components/OfficialIGCard'
 
 export default function HomePage() {
@@ -21,6 +22,7 @@ export default function HomePage() {
         <HowItWorks />
         
         <ReturnGuide />
+        <OfficialLineCard />
         <OfficialIGCard />
         <JoinCTA />
       </div>
