@@ -7,7 +7,7 @@ import PreviewPhotoWall from '@/components/PreviewPhotoWall'
 
 import OfficialLineCard from '@/components/OfficialLineCard'
 import OfficialIGCard from '@/components/OfficialIGCard'
-
+import BetaBenefits from '@/components/BetaBenefits'
 export default function HomePage() {
   return (
     <main className="min-h-screen bg-[#f8f5ff] text-[#17121f]">
@@ -19,6 +19,7 @@ export default function HomePage() {
         <JoinCTA />
         <TrustSection />
         <HowItWorks />
+        <BetaBenefits />
         
         <OfficialLineCard />
         <OfficialIGCard />
