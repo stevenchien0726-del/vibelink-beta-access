@@ -36,17 +36,6 @@ export default function TrustSection() {
         <div className="rounded-2xl bg-[#faf7ff] p-5">
 
           <div className="text-[15px] font-bold text-[#241b3d]">
-            只是社群測試
-          </div>
-
-          <p className="mt-2 text-sm leading-6 text-[#6a6485]">
-            自由建立 Profile、發文、測試功能即可。
-          </p>
-        </div>
-
-        <div className="rounded-2xl bg-[#faf7ff] p-5">
-
-          <div className="text-[15px] font-bold text-[#241b3d]">
             Google登入
           </div>
 
