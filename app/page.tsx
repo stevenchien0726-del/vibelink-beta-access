@@ -8,6 +8,7 @@ import PreviewPhotoWall from '@/components/PreviewPhotoWall'
 import OfficialLineCard from '@/components/OfficialLineCard'
 import OfficialIGCard from '@/components/OfficialIGCard'
 import BetaBenefits from '@/components/BetaBenefits'
+import VibeCityPortalCard from '@/components/VibeCityPortalCard'
 export default function HomePage() {
   return (
     <main className="min-h-screen bg-[#f8f5ff] text-[#17121f]">
@@ -23,6 +24,7 @@ export default function HomePage() {
         
         <OfficialLineCard />
         <OfficialIGCard />
+        <VibeCityPortalCard />
         <JoinCTA />
       </div>
     </main>
